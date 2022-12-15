@@ -1,0 +1,98 @@
+{
+  "R1": {
+    "name": "ret1",
+    "direction": "Av. Demetrio Canelas",
+    "lat": "-17.379405",
+    "long": "-66.176883"
+  },
+  "R2": {
+    "name": "ret2",
+    "direction": "Temporal Pampa",
+    "lat": "-17.363203",
+    "long": "-66.161507"
+  },
+  "R3": {
+    "name": "ret3",
+    "direction": "Av. Tadeo Haenke",
+    "lat": "-17.3828121",
+    "long": "-66.183777"
+  },
+  "R4": {
+    "name": "ret4",
+    "direction": "C. Eudoro Galindo",
+    "lat": "-17.3734504",
+    "long": "-66.146815"
+  },
+  "R5": {
+    "name": "ret5",
+    "direction": "Av. Santa Cruz 1551-1533",
+    "lat": "-17.373397",
+    "long": "-66.156908"
+  },
+  "R6": {
+    "name": "ret6",
+    "direction": "Cala Cala",
+    "lat": "-17.368241",
+    "long": "-66.163677"
+  },
+  "R7": {
+    "name": "ret7",
+    "direction": "Cala Cala 2",
+    "lat": "-17.368326",
+    "long": "-66.163617"
+  },
+  "R8": {
+    "name": "ret8",
+    "direction": "JRPF+3W4, Av. Melchor Pérez de Olguín",
+    "lat": "-17.3648522",
+    "long": "-66.1751735"
+  },
+  "R9": {
+    "name": "ret9",
+    "direction": "Av. Simon Lopez y C.Joel Camacho",
+    "lat": "-17.3649326",
+    "long": "-66.1762674"
+  },
+  "R10": {
+    "name": "ret10",
+    "direction": "Bernardo Monteagudo 1565",
+    "lat": "-17.374545",
+    "long": "-66.147251"
+  },
+  "R11": {
+    "name": "ret11",
+    "direction": "Buenos Aires",
+    "lat": "-17.374629",
+    "long": "-66.1470292"
+  },
+  "R12": {
+    "name": "ret12",
+    "direction": "JRH8+7HV, Av. Juan de La Rosa",
+    "lat": "-17.3719823",
+    "long": "-66.1836921"
+  },
+  "R13": {
+    "name": "ret13",
+    "direction": "Tupuraya",
+    "lat": "-17.375701",
+    "long": "-66.147101"
+  },
+  "R14": {
+    "name": "ret14",
+    "direction": "Zenon Salinas 1087-1053",
+    "lat": "-17.375843",
+    "long": "-66.147448"
+  },
+  "R15": {
+    "name": "ret15",
+    "direction": "Av Harrington",
+    "lat": "-17.3597177",
+    "long": "-66.1717842"
+  },
+  "R16": {
+    "name": "ret16",
+    "direction": "Av. Juan de La Rosa",
+    "lat": "-17.3766205",
+    "long": "-66.1751729"
+  }
+}
