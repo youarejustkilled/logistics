@@ -1,4 +1,10 @@
 {
+  "C1": {
+    "name": "dist1",
+    "direction": "Av. Circunvalación",
+    "lat": "-17.3676068786402",
+    "long": "-66.1513347240367"
+  },
   "R1": {
     "name": "ret1",
     "direction": "Av. Demetrio Canelas",
